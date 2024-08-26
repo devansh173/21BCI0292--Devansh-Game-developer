@@ -2,6 +2,9 @@ Doofus Adventure Game
 
 Overview
 
+link to the deployment of the game
+https://21-bci-0292-devansh-game-developer-tgvr.vercel.app/
+
 the game is not complete yet as there are some corrections and it need to be responsive to work on all devices.
 
 the Ui and Ux of the game v=can be upgraded to make it look 3d and more intractive
